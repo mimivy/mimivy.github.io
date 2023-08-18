@@ -8,11 +8,11 @@ I'm a grad student studying Indian Art History.
 
 --- 
 
-![women selling food in baskets](2006BF7536.jpg)
+![2006BF7536](https://github.com/mimivy/mimivy.github.io/assets/142424029/65bfc609-8c7f-490f-b1a0-ac2e8058bc3d)
+
 Accession number: IS.66-1949
 
----
 This is a painting by the artist Shiva Dayal Lal. It was likely made in Patna, Bihar in 1850. It is now in the collection of the Victoria and Albert Museum. 
 
 ---
-Please click on the next page for some links to digital projects relating to Indian art.
+Please click on the next page for some links to digital projects relating to Indian art!
