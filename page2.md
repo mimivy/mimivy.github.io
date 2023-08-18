@@ -2,10 +2,11 @@
 layout: default 
 title: Online Projects
 ---
-# Here are some inspirational digital projects on Indian Art
+# Digital Art History Projects
+and online exhibits
 
-[Interwoven] (https://interwoven.map-india.org/journey?q=MTc5Njk1)
+[Interwoven](https://interwoven.map-india.org/journey?q=MTc5Njk1)
 
-[Indian armies, Indian art] (https://www.nam.ac.uk/explore/indian-armies-art)
+[Indian armies, Indian art](https://www.nam.ac.uk/explore/indian-armies-art)
 
-[Virtual Museum of Images and Sounds] (https://aims.vmis.in/caa-exhibitions/exhibition/) 
+[Virtual Museum of Images and Sounds](https://aims.vmis.in/caa-exhibitions/exhibition/) 
