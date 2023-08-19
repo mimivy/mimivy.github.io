@@ -16,5 +16,3 @@ This is a painting by the artist Shiva Dayal Lal. It was likely made in Patna, B
 
 ---
 Please click on the next page for some links to digital projects relating to Indian art!
-
-![Shiva Dayal Lal](https://github.com/mimivy/mimivy.github.io/assets/142424029/c62da03e-b31d-4613-8312-b096ed374564)
